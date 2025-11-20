@@ -6,16 +6,16 @@ We plot the norm of the mean differences and the removed components for $20$ rem
 
 ### 1) Dimension
 
-![](/imgs/dim.png)
+![](dim.png)
 
 ### 2) Samples
 
-![](/imgs/Samples.png)
+![](Samples.png)
 
 ### 3) Projections
 
-![](/imgs/L.png)
+![](L.png)
 
 ### 4) Quantile
 
-![](/imgs/q.png)
+![](q.png)
